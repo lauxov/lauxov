@@ -5,8 +5,8 @@
   # 👋 Hello, that's github profile lauxov:
   
   - My telegram - @lauxov
-  - My discord - Маша Кудрявцева#8625
-  - My website - [\*Be soon\*](https://) 
+  - My discord - LauX#9999
+  - My website - [\*Atlant\*](https://keqwerty.xyz/atlant/) 
   - I speak English / Ukrainian / Russian
 
   
