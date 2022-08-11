@@ -12,11 +12,9 @@
   
   # 👨‍💻 My favourite programming languages:
   <p align=center>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img height="32" src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" />
-  <img height="32" src="https://www.evernote.design/assets/images/animejs.jpg" />
   </p>
   
  ```javascript
