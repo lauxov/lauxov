@@ -6,7 +6,7 @@
   
   - My telegram - @lauxov
   - My discord - LauX#9999
-  - My website - [\*Atlant\*](https://keqwerty.xyz/atlant/) 
+  - My website - [\*Be soon\*](https://) 
   - I speak English / Ukrainian / Russian
 
   
