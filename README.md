@@ -19,12 +19,12 @@
  ```javascript
 const lauxov = {
     description: "Friendly developper",
-    tools: ["VSCode", "mysql", "SQLite", "phpMyAdmin", "LUA"], // +12 items
+    tools: ["VSCode", "mysql", "SQLite", "phpMyAdmin", "PYTHON"], // +12 items
     tasks: [
         "apt install -y myworks",
     ],
     projects: [
-        "Atlant Coding Studio", // LUA
+        "Discord.py", // Python
     ]
 }
 ```
