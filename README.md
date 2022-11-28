@@ -18,7 +18,7 @@
   
  ```javascript
 const lauxov = {
-    description: "Friendly developper",
+    description: "Friendly developer",
     tools: ["VSCode", "mysql", "SQLite", "phpMyAdmin", "PYTHON"], // +12 items
     tasks: [
         "apt install -y myworks",
